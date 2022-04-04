@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "appsynctest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/hugoarevalo/Projects/app-sync-test/amplify/backend/api/appsynctest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
